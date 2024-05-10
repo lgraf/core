@@ -810,6 +810,9 @@
       },
       "keypad_lockout": {
         "name": "Keypad lockout"
+      },
+      "operation_mode": {
+        "name": "Operation mode"
       }
     },
     "sensor": {
